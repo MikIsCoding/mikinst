@@ -16,4 +16,4 @@ and thats it!
 
 Synopsis
 --------
-lua installer "package name"
+lua installer.lua "package name"

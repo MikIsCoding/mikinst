@@ -2,4 +2,5 @@
 names = {}
 names.test = "test"
 names.teeworlds = "teeworlds"
+names.luaplugin_for_godot = "luaplugin-for-godot"
 return names

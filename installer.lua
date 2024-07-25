@@ -1,7 +1,11 @@
+-- downloader.lua made by scihb
+--variables
 pkgname = arg[1]
+--modules
 nms = require("pkgnames")
 extrct = require("extract")
 downloader = require("downloader")
+-- if statements
 if nms.test == pkgname then
 	downloader.download("test")
 elseif nms.teeworlds == pkgname then

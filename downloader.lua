@@ -1,3 +1,4 @@
+-- downloader.lua made by scihb, do NOT remove this comment
 downloader = {}
 website = "https://mikiscoding.github.io/mikinstwebsite/"
 extr = require("extract")

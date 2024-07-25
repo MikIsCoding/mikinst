@@ -1,4 +1,4 @@
--- downloader.lua made by scihb
+-- downloader.lua made by scihb, do NOT remove this comment
 --variables
 pkgname = arg[1]
 --modules

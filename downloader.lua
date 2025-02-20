@@ -1,6 +1,6 @@
--- downloader.lua made by scihb, do NOT remove this comment
+-- downloader.lua made by scihb
 downloader = {}
-website = "https://mikiscoding.github.io/mikinstwebsite/"
+website = "https://scihb.github.io/mikinstwebsite/"
 extr = require("extract")
 function downloader.download(pkgname)
 	print("downloading " .. pkgname .. " ...")

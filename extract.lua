@@ -1,4 +1,4 @@
---extract module made by scihb, do NOT remove this comment
+--extract module made by scihb
 extract = {}
 function extract.extracttargz(filename)
 	print("downloading complete!")
